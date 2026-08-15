@@ -3,7 +3,7 @@
 ---
 
 
-# 🍇 Witaj w Roussillon Wine Hub!
+# 🍇 Roussillon 
 
 Witaj w cyfrowym przewodniku po najbardziej słonecznym regionie winiarskim Francji – **Roussillon**. Położony między Pirenejami a Morzem Śródziemnym, region ten oferuje niezwykle bogate, ekspresyjne wina wytrawne oraz legendarne wzmacniane wina słodkie (*Vins Doux Naturels*).
 
@@ -23,5 +23,8 @@ Dowiedz się więcej o szczepach, które definiują charakter Roussillon:
 * [[Roussillon-Wine-Hub/04_Odmiany/05_Artykuly/Przewodnik po Vins Doux Naturels\|Czym są Vins Doux Naturels? Kompleksowy przewodnik]]
 * [[03_Degustacje/2026-08-Domaine-Gauby-Vieilles-Vignes\|Recenzja: Domaine Gauby – Vieilles Vignes 2022]]
 test.
+[[Roussillon-Wine-Hub/02_Winnice/Template-Winnica\|Template-Winnica]]
+[[Roussillon-Wine-Hub/03_Degustacje/Template-Degustacja\|Template-Degustacja]]
+
 ---
 💡 *Projekt stworzony w Obsidian i publikowany automatycznie za pomocą Digital Garden.*
