@@ -1,53 +1,29 @@
-body {/* --- OFICJALNY STYL MINIMAL PREMIUM --- */
-@import url('https://googleapis.com');
-
+/* --- CZYSTY, NIEZAWODNY STYL SYSTEMOWY --- */
 :root {
-  --background-body: #ffffff !important; /* Idealnie białe, czyste tło */
-  --text-normal: #111111 !important; /* Głęboka, czytelna czerń dla teksty */
-  --text-accent: #666666 !important; /* Elegancka szarość dla bocznych elementów */
-  --interactive-accent: #000000 !important; /* Ultra-minimalistyczne, czarne linki */
-  font-family: 'Inter', sans-serif !important;
+  --background-body: #ffffff !important;
+  --text-normal: #111111 !important;
+  --text-accent: #666666 !important;
+  --interactive-accent: #000000 !important;
 }
 
-body, .markdown-preview-view {
-  font-family: 'Inter', sans-serif !important;
+/* Wymuszenie czcionek, które Twój komputer i telefon MAJĄ JUŻ W SOBIE */
+body, .markdown-preview-view, .note-content, p, li {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
   font-size: 16px !important;
-  line-height: 1.8 !important;
-  letter-spacing: -0.01em !important;
+  line-height: 1.7 !important;
+  color: #111111 !important;
 }
 
-/* Układ i formatowanie nagłówków */
-h1, h2, h3 {
-  font-weight: 600 !important;
+/* Piękne, eleganckie tytuły w stylu klasycznego e-magazynu */
+h1, h2, h3, h4 {
+  font-family: "Georgia", serif !important;
   color: #000000 !important;
-  letter-spacing: -0.02em !important;
-  margin-top: 1.5em !important;
+  font-weight: 700 !important;
 }
 
-/* Boczne menu (Nawigacja) - Czyste i nowoczesne */
-.sidebar, .nav-view, .sidebar-container {
-  background-color: #fafafa !important; /* Bardzo jasny, nowoczesny szary */
-  border-right: 1px solid #eaeaea !important;
-  font-size: 14px !important;
-}
-
-/* Usunięcie brzydkich fabrycznych obramowań */
+/* Czyste tło dla tekstu bez fabrycznych szarych ramek */
 .note-content, .markdown-rendered {
   background: #ffffff !important;
-  padding: 40px max(20px, 5%) !important;
   max-width: 750px !important;
   margin: 0 auto !important;
-}
-
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
 }
