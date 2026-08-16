@@ -26,36 +26,8 @@ test..
 [[Roussillon-Wine-Hub/02_Winnice/Template-Winnica\|Template-Winnica]]
 [[Roussillon-Wine-Hub/03_Degustacje/Template-Degustacja\|Template-Degustacja]]
 
-<style>
-  /* --- CZYSTY, ELEGANCKI MOTYW WINIARSKI --- */
-  :root {
-    --background-body: #fdfbf7 !important; /* Ciepłe, kremowe tło, luksusowe dla oka */
-    --text-normal: #2c3e50 !important; /* Ciemny, czytelny grafit dla tekstu */
-    --text-accent: #722F37 !important; /* Głęboki burgund dla nagłówków i akcentów */
-    --interactive-accent: #981824 !important; /* Żywy kolor czerwonego wina dla linków */
-    --title-color: #722F37 !important;
-  }
 
-  /* Wygląd bocznego menu i nawigacji */
-  .sidebar, .nav-view, .sidebar-container {
-    background-color: #f7f4eb !important; /* Odrobinę ciemniejszy krem dla menu */
-    border-right: 1px solid #e9e3d5 !important;
-  }
 
-  /* Elegancka czcionka jak w magazynach winiarskich */
-  body, .markdown-preview-view {
-    font-family: 'Georgia', serif !important;
-    line-height: 1.7 !important;
-  }
-
-  /* Piękne, zaokrąglone ramki i cienie dla tekstu */
-  .note-content, .markdown-rendered {
-    background: #ffffff !important;
-    border-radius: 12px !important;
-    padding: 35px !important;
-    box-shadow: 0 4px 20px rgba(114, 47, 55, 0.04) !important;
-  }
-</style>
 
 ---
 💡 *Projekt stworzony w Obsidian i publikowany automatycznie za pomocą Digital Garden.*
