@@ -22,7 +22,7 @@ Dowiedz się więcej o szczepach, które definiują charakter Roussillon:
 ## ✍️ Najnowsze Artykuły i Degustacje
 * [[Roussillon-Wine-Hub/04_Odmiany/05_Artykuly/Przewodnik po Vins Doux Naturels\|Czym są Vins Doux Naturels? Kompleksowy przewodnik]]
 * [[03_Degustacje/2026-08-Domaine-Gauby-Vieilles-Vignes\|Recenzja: Domaine Gauby – Vieilles Vignes 2022]]
-test.
+test..
 [[Roussillon-Wine-Hub/02_Winnice/Template-Winnica\|Template-Winnica]]
 [[Roussillon-Wine-Hub/03_Degustacje/Template-Degustacja\|Template-Degustacja]]
 
