@@ -1,4 +1,44 @@
-body {
+body {/* --- OFICJALNY STYL MINIMAL PREMIUM --- */
+@import url('https://googleapis.com');
+
+:root {
+  --background-body: #ffffff !important; /* Idealnie białe, czyste tło */
+  --text-normal: #111111 !important; /* Głęboka, czytelna czerń dla teksty */
+  --text-accent: #666666 !important; /* Elegancka szarość dla bocznych elementów */
+  --interactive-accent: #000000 !important; /* Ultra-minimalistyczne, czarne linki */
+  font-family: 'Inter', sans-serif !important;
+}
+
+body, .markdown-preview-view {
+  font-family: 'Inter', sans-serif !important;
+  font-size: 16px !important;
+  line-height: 1.8 !important;
+  letter-spacing: -0.01em !important;
+}
+
+/* Układ i formatowanie nagłówków */
+h1, h2, h3 {
+  font-weight: 600 !important;
+  color: #000000 !important;
+  letter-spacing: -0.02em !important;
+  margin-top: 1.5em !important;
+}
+
+/* Boczne menu (Nawigacja) - Czyste i nowoczesne */
+.sidebar, .nav-view, .sidebar-container {
+  background-color: #fafafa !important; /* Bardzo jasny, nowoczesny szary */
+  border-right: 1px solid #eaeaea !important;
+  font-size: 14px !important;
+}
+
+/* Usunięcie brzydkich fabrycznych obramowań */
+.note-content, .markdown-rendered {
+  background: #ffffff !important;
+  padding: 40px max(20px, 5%) !important;
+  max-width: 750px !important;
+  margin: 0 auto !important;
+}
+
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
